@@ -1,7 +1,7 @@
 # MicroCurrent – my version of uCurrent Gold
 
-<img src="images/1.png" height="500" >
-<img src="images/2.png" height="500" >
+<img src="images/1.png" width="300" >
+<img src="images/2.png" width="300" >
 
 A low cost yet professional low current measurement shunt and amplifier
 combination to overcome the issue of high burden voltage as seen with
